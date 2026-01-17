@@ -4,7 +4,6 @@
 1. Fetches a YouTube video transcript
 2. Cleans out filler / “no-use” words
 3. Summarizes the cleaned transcript using the OpenAI API
----
 
 
 ### THIS IS STAGE 1 OF THE PROJECT
@@ -18,7 +17,6 @@ Later stages will have standalone model instead of openAI and more features into
 - ✅ Generate a final combined summary (`summary.txt`)
 - ✅ Processes the transcript in chunks to avoid sending everything at once
 
----
 
 ## Project Files
 
@@ -37,7 +35,6 @@ Later stages will have standalone model instead of openAI and more features into
 - **`requirements.txt`**  
   Python dependencies
 
----
 
 ## Installation
 
