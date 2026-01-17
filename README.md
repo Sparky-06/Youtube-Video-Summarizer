@@ -1,14 +1,14 @@
 # YouTube Transcript Cleaner + Summarizer
 
-
-### THIS IS STAGE 1 OF THE PROJECT
-Later stages will have standalone model instead of openAI and more features into it.
-
 ### A small Python project that:
 1. Fetches a YouTube video transcript
 2. Cleans out filler / “no-use” words
 3. Summarizes the cleaned transcript using the OpenAI API
 ---
+
+
+### THIS IS STAGE 1 OF THE PROJECT
+Later stages will have standalone model instead of openAI and more features into it.
 
 ## Features
 
@@ -98,5 +98,10 @@ it's like
 - Summarize.py chunks the transcript in batches of 100 lines to avoid huge single requests.
 
 
+### THIS IS STAGE 1 OF THE PROJECT
+Later stages will have standalone model instead of openAI and more features into it.
+
 ### License
 MIT
+
+Author: Sparky-06
