@@ -1,0 +1,6 @@
+.env
+clean.txt
+fetch_transcript.txt
+summary.txt
+.venv
+__pycache__
