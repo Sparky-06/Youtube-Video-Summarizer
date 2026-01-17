@@ -5,6 +5,9 @@ A small Python project that:
 2. Cleans out filler / “no-use” words
 3. Summarizes the cleaned transcript using the OpenAI API
 
+
+### THIS IS STAGE 1 OF THE PROJECT
+Later stages will have standalone model instead of openAI and more features into it.
 ---
 
 ## Features
@@ -93,10 +96,6 @@ it's like
 - Some videos may block transcript access or not provide transcripts.
 - Summarization uses model: gpt-5-nano
 - Summarize.py chunks the transcript in batches of 100 lines to avoid huge single requests.
-
-
-### THIS IS STAGE 1 OF THE PROJECT
-Later stages will have standalone model instead of openAI more features into it.
 
 
 ### License
