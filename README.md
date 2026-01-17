@@ -40,8 +40,8 @@ A small Python project that:
 
 ### 1) Clone / download the project
 ```bash
-git clone <your-repo-url>
-cd <your-project-folder>
+git clone https://github.com/Sparky-06/Youtube-Video-Summarizer.git
+cd Youtube-Video-Summarizer
 ```
 
 ### Create and activate virtual enviorment (recommanded)
